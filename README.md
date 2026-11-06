@@ -1,25 +1,27 @@
 <div align="center">
 
-  <h1 align="center">✨ Welcome to Rihab's Aesthetic Space 🤎</h1>
-  <p align="center"><i>"Your personal aesthetic sanctuary for calm coding & productivity."</i></p>
+  <h1 align="center">✨ Hey there, I'm Rihab! 🤎</h1>
+  <p align="center"><i>"Turning coffee ☕ & random ideas 💡 into aesthetic digital experiences."</i></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Status-Building%20Glow%20Space-818263?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Aesthetic-Sanctuary-DDBAAE?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Debugging_Life_&_Code-DDBAAE?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vibe-Aesthetic_%26_Cozy-818263?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Coffee_Level-100%25-EFDCB9?style=for-the-badge&logoColor=black" />
   </p>
 
 </div>
 
 ---
 
-### 🌿 About Me
-* 🌱 I’m currently building **Glow Space** — a calm, aesthetic daily planner app using Android WebView, HTML, CSS, and JavaScript.
-* ☕ I love combining clean code with soft, warm, and cozy UI/UX designs.
-* 💻 Exploring frontend development, modern web applications, and mobile integration.
+### 💻 About Me (The Real Story)
+* 🔭 **I’m currently working on:** Crafting **Glow Space** — making productivity look and feel aesthetic.
+* ⚡ **Fun Fact:** My code usually works on the first try... Just kidding, it takes 47 attempts and a deep sigh. 😂
+* 🎧 **Coding Soundtrack:** Lo-Fi beats, soft jazz, and endless scrolling for color palettes.
+* 🧠 **Current Obsession:** Perfecting CSS glassmorphism and smooth mobile UI.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ My Tech Playground
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -31,11 +33,19 @@
 
 ---
 
-### 🤎 Let's Connect
-* 💼 **GitHub:** [@RihabKahouadji](https://github.com/RihabKahouadji)
-* ✨ **Project:** [Glow Space Planner App]
+### 📊 GitHub Stats & Mood
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RihabKahouadji&show_icons=true&theme=vue-dark&hide_border=true&bg_color=22,20,19" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RihabKahouadji&theme=vue-dark&hide_border=true&background=22,20,19" width="48%" />
+</div>
+
+---
+
+### 🤎 Let's Connect & Vibe
+* 💼 **GitHub Profile:** [@RihabKahouadji](https://github.com/RihabKahouadji)
+* ✨ **Latest Masterpiece:** Glow Space App (Android WebView Planner)
 
 <div align="center">
-  <p><i>"Stay focused, aesthetic, and productive." 🤎✨</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=818263&height=100&section=footer" />
+  <p><i>"Stay stylish, keep coding, and never trust code that works on the first try." 🤎✨</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DDBAAE&height=90&section=footer" />
 </div>
